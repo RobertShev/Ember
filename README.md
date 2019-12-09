@@ -14,4 +14,4 @@ Variandid:
 1. Install Ember-cli
 2. cd octane-example
 3. ember serve
-**Kodutöö esitamine käib githubis tehes sellest repost fork-i ja seejärel pull requesti, kui kodutöö on valmis.**
+
